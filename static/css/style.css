@@ -1,0 +1,28 @@
+body {
+    background-color: Bisque;
+  }
+
+
+  .jumbotron {
+    background-image: url("../images/bellybutton.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+  }
+
+  .well {
+    background-color: Bisque;
+    border-color: Black;
+ } 
+  
+  .panel-body {
+    background-color: Bisque;
+ }
+
+  .col-md-5 {
+    background-color: Bisque;
+ }
+ 
+ .col-md-12 {
+    background-color: Bisque;
+ }
+
