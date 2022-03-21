@@ -15,7 +15,7 @@ Flask was used to create the initial web framework of the Mission to Mars web si
 
 
 ## Enhancing the Website using Bootstrap
-Bootstrap web frame-working was used to ensure the web site could be viewed from any device and was also used to make the content more readable.  Below is a screenshot of some the styling done to color the background and also add a picture.   
+Bootstrap web frame-working was used to ensure the web site could be viewed from any device and was also used to make the content more readable.  Below is a screenshot of some the styling done to color the background, add a border color, and also add a picture.   
 
 ![Bootstrap CSS style sheet](screenshots/css.png)
 
