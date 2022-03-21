@@ -1,6 +1,6 @@
 # Plotly - Belly Button Biodiversity
 ## Overview of the Project
-A website
+An interactive website was created using a combination of html, javascript, and bootstrap css stylizing.  
 
 The web site can be viewed at the link below.
 
