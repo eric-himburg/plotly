@@ -1,6 +1,6 @@
 # Plotly - Belly Button Biodiversity
 ## Overview of the Project
-An interactive website was created using a combination of html, JavaScript, and Bootstrap CSS stylizing.  Additionally, the Plotly library was accessed through a CDN and used to generate three different graphic visuals on the site: a bar chart, a gauge, and a bubble chart.  The point of the web site is to analyze the types of bacteria growing in different anonymous test subjects belly buttons.  The completed web site can be viewed at the link below.
+An interactive website was created using a combination of HTML, JavaScript, and Bootstrap CSS stylizing.  Additionally, the Plotly library was accessed through a CDN and used to generate three different graphic visuals on the site: a bar chart, a gauge, and a bubble chart.  The point of the web site is to analyze the types of bacteria growing in different anonymous test subjects belly buttons.  The completed web site can be viewed at the link below.
 
 [Belly Button Biodiversity Dashboard](https://eric-himburg.github.io/plotly/)
 
